@@ -32,3 +32,5 @@
 + Markdown ![](./img/Markdown.png)
 + Yaml ![](./img/Yaml.png)
 + Jsonnet ![](./img/Jsonnet.png)
+
+*Конец Файла*
